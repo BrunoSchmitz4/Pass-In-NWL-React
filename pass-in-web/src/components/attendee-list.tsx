@@ -42,7 +42,7 @@ export function AttendeeList() {
                                     <td className="py-3 px-4 text-sm text-left text-zinc-300">7 days ago</td>
                                     <td className="py-3 px-4 text-sm text-left text-zinc-300">3 days ago</td>
                                     <td className="py-3 px-4 text-sm text-left text-zinc-300">
-                                        <IconButton transparent = {true}>
+                                        <IconButton transparent>
                                             <MoreHorizontal className="size-4" />
                                         </IconButton>
                                     </td>
